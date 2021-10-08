@@ -1,0 +1,6 @@
+subscription testChanged {
+  onTestChanged {
+    id
+    name
+  }
+}

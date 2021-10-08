@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQL.ServerApp", "GraphQL.ServerApp\GraphQL.ServerApp.csproj", "{76F6B1C7-23E6-4622-B530-C2A5CF8CDE7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQL.ClientApp", "GraphQL.ClientApp\GraphQL.ClientApp.csproj", "{EE2A81DF-BFF2-4F64-A114-E4EC426775B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76F6B1C7-23E6-4622-B530-C2A5CF8CDE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F6B1C7-23E6-4622-B530-C2A5CF8CDE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F6B1C7-23E6-4622-B530-C2A5CF8CDE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F6B1C7-23E6-4622-B530-C2A5CF8CDE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2A81DF-BFF2-4F64-A114-E4EC426775B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2A81DF-BFF2-4F64-A114-E4EC426775B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2A81DF-BFF2-4F64-A114-E4EC426775B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2A81DF-BFF2-4F64-A114-E4EC426775B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F51952A9-9E96-43BF-924D-E2812C762655}
+	EndGlobalSection
+EndGlobal
